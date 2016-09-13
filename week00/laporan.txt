@@ -1,0 +1,5 @@
+I had two tasks at Week 0. The first task was all about greetings in Scele OS
+forum to proof the student's presence. The second task was created to make sure
+every student registered in the Badak.cs.ui.ac.id server by input our google
+account, github account, and LDAP account.
+
