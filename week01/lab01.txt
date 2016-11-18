@@ -17,3 +17,6 @@ drwxr-xr-x  2 r.pb StafCS 4096 Sep 13 23:11 week08
 drwxr-xr-x  2 r.pb StafCS 4096 Sep 13 23:11 week09
 drwxr-xr-x  2 r.pb StafCS 4096 Sep 13 23:11 week10
 /home/fasilkom/mahasiswa/r/r.pb/os162/week01
+Today is 13 Sep 2016 at 23:41:40
+Today is 13 Sep 2016 at 23:42:05
+Today is 13 Sep 2016 at 23:43:24
